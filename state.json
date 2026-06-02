@@ -57,7 +57,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": false,
-    "price": 289.0,
+    "price": 449.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -91,8 +91,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G3CS9CLQ": {
     "name": "Ascended Heroes Gengar Sticker",
-    "in_stock": false,
-    "price": 34.0,
+    "in_stock": true,
+    "price": 212.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G3CS9CLQ"
   },
