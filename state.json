@@ -57,7 +57,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Phantasmal Flames Booster Bundle",
     "in_stock": false,
-    "price": null,
+    "price": 399.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -85,7 +85,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G882HQVC": {
     "name": "Black/White 12 Pack Collection",
     "in_stock": true,
-    "price": 933.0,
+    "price": 999.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G882HQVC"
   },
