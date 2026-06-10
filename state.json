@@ -99,7 +99,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
     "in_stock": false,
-    "price": 347.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
@@ -113,7 +113,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
     "in_stock": true,
-    "price": 315.0,
+    "price": 308.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
