@@ -56,8 +56,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Phantasmal Flames Booster Bundle",
-    "in_stock": false,
-    "price": 347.0,
+    "in_stock": true,
+    "price": 399.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -99,28 +99,28 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
     "in_stock": false,
-    "price": null,
+    "price": 204.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": false,
-    "price": 423.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
     "in_stock": true,
-    "price": 308.0,
+    "price": 359.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": true,
-    "price": 154.0,
+    "price": 144.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
