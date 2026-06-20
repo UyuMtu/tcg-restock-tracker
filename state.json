@@ -50,14 +50,14 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G72SPRP6": {
     "name": "Ascended Heroes Meganium EX Box",
     "in_stock": true,
-    "price": 299.0,
+    "price": 319.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": true,
-    "price": 337.0,
+    "price": 333.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -99,28 +99,28 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
     "in_stock": false,
-    "price": 222.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": false,
-    "price": null,
+    "price": 1201.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
     "in_stock": true,
-    "price": 313.0,
+    "price": 317.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": true,
-    "price": 196.0,
+    "price": 199.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
