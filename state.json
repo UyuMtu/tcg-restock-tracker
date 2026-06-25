@@ -78,7 +78,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": 725.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
@@ -120,7 +120,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": true,
-    "price": 196.0,
+    "price": 158.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
