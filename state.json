@@ -50,12 +50,12 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G72SPRP6": {
     "name": "Ascended Heroes Meganium EX Box",
     "in_stock": true,
-    "price": 299.0,
+    "price": 309.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
-    "name": "Ascended Heroes Gardevoir 10 pack",
+    "name": "Phantasmal Flames Booster Bundle",
     "in_stock": true,
     "price": 333.0,
     "currency": "AED",
@@ -78,7 +78,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": null,
+    "price": 725.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
@@ -99,7 +99,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
     "in_stock": false,
-    "price": null,
+    "price": 735.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
@@ -134,7 +134,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0F2BDKJ9Q": {
     "name": "Destined Rivals Blister",
     "in_stock": true,
-    "price": 456.0,
+    "price": 451.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F2BDKJ9Q"
   }
