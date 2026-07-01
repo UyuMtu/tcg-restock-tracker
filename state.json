@@ -106,7 +106,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": false,
-    "price": 233.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
@@ -133,8 +133,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F2BDKJ9Q": {
     "name": "Destined Rivals Blister",
-    "in_stock": false,
-    "price": 495.0,
+    "in_stock": true,
+    "price": 440.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F2BDKJ9Q"
   }
