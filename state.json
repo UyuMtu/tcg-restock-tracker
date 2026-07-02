@@ -55,7 +55,7 @@
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
-    "name": "Ascended Heroes Gardevoir 10 pack",
+    "name": "Phantasmal Flames Booster Bundle",
     "in_stock": true,
     "price": 333.0,
     "currency": "AED",
@@ -77,8 +77,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
-    "in_stock": true,
-    "price": 300.0,
+    "in_stock": false,
+    "price": 725.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
