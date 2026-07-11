@@ -77,8 +77,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
-    "in_stock": true,
-    "price": 1196.0,
+    "in_stock": false,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
