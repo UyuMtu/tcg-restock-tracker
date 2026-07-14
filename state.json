@@ -64,7 +64,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G72QBTBJ": {
     "name": "Ascended Heroes Emboar EX Box",
     "in_stock": true,
-    "price": 309.0,
+    "price": 308.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72QBTBJ"
   },
@@ -78,7 +78,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": null,
+    "price": 675.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
