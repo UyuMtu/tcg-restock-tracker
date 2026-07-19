@@ -98,8 +98,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
-    "in_stock": false,
-    "price": 249.0,
+    "in_stock": true,
+    "price": 221.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
@@ -127,7 +127,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0F6PV2967": {
     "name": "Black Bolt Blister",
     "in_stock": true,
-    "price": 198.0,
+    "price": 280.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F6PV2967"
   },
