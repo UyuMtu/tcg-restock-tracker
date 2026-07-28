@@ -56,8 +56,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 337.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -71,7 +71,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0C8Y8MJ36": {
     "name": "151 Alakazam Box",
     "in_stock": false,
-    "price": null,
+    "price": 655.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0C8Y8MJ36"
   },
@@ -98,8 +98,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 249.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
@@ -126,8 +126,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F6PV2967": {
     "name": "Black Bolt Blister",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 198.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F6PV2967"
   },
