@@ -49,8 +49,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G72SPRP6": {
     "name": "Ascended Heroes Meganium EX Box",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 299.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
@@ -91,8 +91,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G3CS9CLQ": {
     "name": "Ascended Heroes Gengar Sticker",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 218.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G3CS9CLQ"
   },
@@ -112,8 +112,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 342.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
@@ -133,8 +133,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F2BDKJ9Q": {
     "name": "Destined Rivals Blister",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 228.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F2BDKJ9Q"
   },
