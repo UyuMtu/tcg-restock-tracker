@@ -49,15 +49,15 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G72SPRP6": {
     "name": "Ascended Heroes Meganium EX Box",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 309.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 337.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -78,21 +78,21 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": null,
+    "price": 655.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G882HQVC": {
     "name": "Black/White 12 Pack Collection",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 999.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G882HQVC"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G3CS9CLQ": {
     "name": "Ascended Heroes Gengar Sticker",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 249.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G3CS9CLQ"
   },
@@ -105,29 +105,29 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 218.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 344.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": false,
-    "price": null,
+    "price": 154.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F6PV2967": {
     "name": "Black Bolt Blister",
-    "in_stock": false,
-    "price": null,
+    "in_stock": true,
+    "price": 199.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F6PV2967"
   },
