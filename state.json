@@ -63,8 +63,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G72QBTBJ": {
     "name": "Ascended Heroes Emboar EX Box",
-    "in_stock": false,
-    "price": 349.0,
+    "in_stock": true,
+    "price": 309.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G72QBTBJ"
   },
@@ -120,7 +120,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": false,
-    "price": 154.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
