@@ -55,7 +55,7 @@
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
-    "name": "Phantasmal Flames Booster Bundle",
+    "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": true,
     "price": 397.0,
     "currency": "AED",
@@ -120,14 +120,14 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": false,
-    "price": 154.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F6PV2967": {
     "name": "Black Bolt Blister",
     "in_stock": true,
-    "price": 198.0,
+    "price": 199.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F6PV2967"
   },
