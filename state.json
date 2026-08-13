@@ -106,7 +106,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": true,
-    "price": 217.0,
+    "price": 291.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
@@ -120,7 +120,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
     "in_stock": false,
-    "price": 154.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
