@@ -57,7 +57,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": true,
-    "price": 397.0,
+    "price": 498.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -78,7 +78,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": 789.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
