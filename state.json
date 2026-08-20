@@ -77,8 +77,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
-    "in_stock": true,
-    "price": 794.0,
+    "in_stock": false,
+    "price": 789.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
@@ -134,7 +134,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0F2BDKJ9Q": {
     "name": "Destined Rivals Blister",
     "in_stock": true,
-    "price": 228.0,
+    "price": 411.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F2BDKJ9Q"
   },
