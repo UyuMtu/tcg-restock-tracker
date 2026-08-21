@@ -55,7 +55,7 @@
     "url": "https://www.amazon.ae/dp/B0G72SPRP6"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
-    "name": "Phantasmal Flames Booster Bundle",
+    "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": true,
     "price": 405.0,
     "currency": "AED",
@@ -70,8 +70,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0C8Y8MJ36": {
     "name": "151 Alakazam Box",
-    "in_stock": true,
-    "price": 249.0,
+    "in_stock": false,
+    "price": 32.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0C8Y8MJ36"
   },
@@ -99,7 +99,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G4XK6SVT": {
     "name": "Ascended Heroes Charizard Sticker",
     "in_stock": true,
-    "price": 218.0,
+    "price": 249.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G4XK6SVT"
   },
@@ -113,7 +113,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
     "in_stock": true,
-    "price": 351.0,
+    "price": 399.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
