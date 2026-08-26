@@ -133,8 +133,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F2BDKJ9Q": {
     "name": "Destined Rivals Blister",
-    "in_stock": true,
-    "price": 447.0,
+    "in_stock": false,
+    "price": 99.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F2BDKJ9Q"
   },
