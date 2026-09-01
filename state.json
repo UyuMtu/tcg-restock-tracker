@@ -77,8 +77,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
-    "in_stock": true,
-    "price": 539.0,
+    "in_stock": false,
+    "price": 595.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
@@ -91,7 +91,7 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G3CS9CLQ": {
     "name": "Ascended Heroes Gengar Sticker",
-    "in_stock": true,
+    "in_stock": false,
     "price": 249.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G3CS9CLQ"
@@ -106,20 +106,20 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": true,
-    "price": 197.0,
+    "price": 291.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
-    "in_stock": true,
+    "in_stock": false,
     "price": 347.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
-    "in_stock": true,
+    "in_stock": false,
     "price": 189.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
