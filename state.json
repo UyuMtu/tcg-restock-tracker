@@ -70,15 +70,15 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0C8Y8MJ36": {
     "name": "151 Alakazam Box",
-    "in_stock": true,
-    "price": 1032.0,
+    "in_stock": false,
+    "price": 655.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0C8Y8MJ36"
   },
   "amazon_ae_https://www.amazon.ae/dp/B0DLPL7LC5": {
     "name": "Prismatic Evolutions ETB",
     "in_stock": false,
-    "price": 595.0,
+    "price": null,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLPL7LC5"
   },
@@ -119,7 +119,7 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
-    "in_stock": false,
+    "in_stock": true,
     "price": 189.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
