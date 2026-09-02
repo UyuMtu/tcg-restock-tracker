@@ -119,8 +119,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G547KBNB": {
     "name": "Ascended Heroes Blister",
-    "in_stock": false,
-    "price": 189.0,
+    "in_stock": true,
+    "price": 214.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G547KBNB"
   },
