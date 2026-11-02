@@ -57,7 +57,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Phantasmal Flames Booster Bundle",
     "in_stock": false,
-    "price": 467.0,
+    "price": 534.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -91,8 +91,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0G3CS9CLQ": {
     "name": "Ascended Heroes Gengar Sticker",
-    "in_stock": true,
-    "price": 294.0,
+    "in_stock": false,
+    "price": 249.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G3CS9CLQ"
   },
