@@ -85,7 +85,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G882HQVC": {
     "name": "Black/White 12 Pack Collection",
     "in_stock": true,
-    "price": 999.0,
+    "price": 998.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G882HQVC"
   },
@@ -113,7 +113,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0G71VXSWN": {
     "name": "Ascended Heroes Pin Collection",
     "in_stock": true,
-    "price": 398.0,
+    "price": 347.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0G71VXSWN"
   },
@@ -126,8 +126,8 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0F6PV2967": {
     "name": "Black Bolt Blister",
-    "in_stock": true,
-    "price": 998.0,
+    "in_stock": false,
+    "price": 329.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0F6PV2967"
   },
