@@ -57,7 +57,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0FPLLR939": {
     "name": "Ascended Heroes Gardevoir 10 pack",
     "in_stock": false,
-    "price": 537.0,
+    "price": 536.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0FPLLR939"
   },
@@ -70,7 +70,7 @@
   },
   "amazon_ae_https://www.amazon.ae/dp/B0C8Y8MJ36": {
     "name": "151 Alakazam Box",
-    "in_stock": true,
+    "in_stock": false,
     "price": 183.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0C8Y8MJ36"
@@ -106,7 +106,7 @@
   "amazon_ae_https://www.amazon.ae/dp/B0DLQJ613B": {
     "name": "Prismatic Poster Collection",
     "in_stock": true,
-    "price": 198.0,
+    "price": 216.0,
     "currency": "AED",
     "url": "https://www.amazon.ae/dp/B0DLQJ613B"
   },
